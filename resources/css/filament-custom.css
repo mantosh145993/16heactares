@@ -1,0 +1,38 @@
+.blog-content h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.blog-content h2 {
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.blog-content h3 {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.blog-content p {
+    margin-bottom: 12px;
+    line-height: 1.6;
+}
+
+.blog-content img {
+    margin: 15px 0;
+    border-radius: 10px;
+}
+
+.blog-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 15px 0;
+}
+
+.blog-content table td,
+.blog-content table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
